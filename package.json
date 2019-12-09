@@ -14,7 +14,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "lerna": "^3.5.1"
+    "lerna": "^3.19.0"
   },
   "dependencies": {
     "gatsby-image": "^2.2.34",
@@ -22,6 +22,7 @@
     "gatsby-source-filesystem": "^2.1.40",
     "gatsby-transformer-json": "^2.2.20",
     "gatsby-transformer-sharp": "^2.3.7",
+    "graphql": "^14.5.8",
     "netlify-lambda": "^1.6.3"
   }
 }
